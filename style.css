@@ -42,7 +42,7 @@ body {
   width: 160px;
   height: 160px;
   border-radius: 22px;
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
 }
 
 .wordmark {
@@ -69,19 +69,6 @@ body {
 .badge img {
   height: 48px;
   display: block;
-}
-
-.badge-soon {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  height: 48px;
-  padding: 0 20px;
-  background: var(--ink);
-  color: #fff;
-  border-radius: 8px;
-  font-size: 0.9rem;
-  font-weight: 600;
 }
 
 /* Screenshots */
