@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 120 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g>
+        <path d="M119.164,6L119.164,34C119.164,37.036 116.7,39.5 113.664,39.5L6,39.5C2.964,39.5 0.5,37.036 0.5,34L0.5,6C0.5,2.964 2.964,0.5 6,0.5L113.664,0.5C116.7,0.5 119.164,2.964 119.164,6Z" style="stroke:rgb(166,166,166);stroke-width:1px;"/>
+        <g transform="matrix(1.108696,0,0,1.108696,8.913043,8.913043)">
+            <circle cx="10" cy="10" r="9.2" style="fill:none;stroke:white;stroke-width:1.4px;"/>
+            <ellipse cx="10" cy="10" rx="4" ry="9.2" style="fill:none;stroke:white;stroke-width:1.4px;"/>
+            <path d="M0.9,10L19.1,10" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:1.4px;"/>
+            <path d="M2.2,5.2L17.8,5.2" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:1.4px;"/>
+            <path d="M2.2,14.8L17.8,14.8" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:1.4px;"/>
+        </g>
+        <g transform="matrix(0.922627,0,0,0.922627,4.759273,2.038101)">
+            <g transform="matrix(0.715992,0,0,0.715992,40.499582,30.188023)">
+                <g>
+                    <g transform="matrix(1.183075,0,0,1.183075,-7.024886,-0.395583)">
+                        <g transform="matrix(15.5,0,0,15.5,92.757812,0)">
+                        </g>
+                        <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:15.5px;fill:white;">W<tspan x="14.357px 22.978px " y="0px 0px ">eb</tspan> V<tspan x="46.243px 54.863px " y="0px 0px ">er</tspan>sion</text>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1.046453,0,0,1.046453,35.533999,14.512021)">
+                <g>
+                    <g transform="matrix(7.6,0,0,7.6,43.507031,0)">
+                    </g>
+                    <text x="0px" y="0px" style="font-family:'Helvetica';font-size:7.6px;fill:white;">T<tspan x="4.364px 6.895px 10.695px 12.673px 17.315px " y="0px 0px 0px 0px 0px ">ry Th</tspan>e Free</text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
