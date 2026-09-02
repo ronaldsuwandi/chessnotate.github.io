@@ -1,0 +1,41 @@
+User-agent: *
+Disallow: /web/
+
+User-agent: GPTBot
+Disallow: /web/
+
+User-agent: ChatGPT-User
+Disallow: /web/
+
+User-agent: CCBot
+Disallow: /web/
+
+User-agent: anthropic-ai
+Disallow: /web/
+
+User-agent: ClaudeBot
+Disallow: /web/
+
+User-agent: Claude-Web
+Disallow: /web/
+
+User-agent: Google-Extended
+Disallow: /web/
+
+User-agent: Applebot-Extended
+Disallow: /web/
+
+User-agent: PerplexityBot
+Disallow: /web/
+
+User-agent: Bytespider
+Disallow: /web/
+
+User-agent: Diffbot
+Disallow: /web/
+
+User-agent: Omgilibot
+Disallow: /web/
+
+User-agent: FacebookBot
+Disallow: /web/
