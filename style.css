@@ -105,7 +105,12 @@ body {
 .screenshot-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 24px;
+  gap: 80px;
+  text-align: center;
+}
+
+.screenshot-grid figure {
+  margin: 0;
 }
 
 .screenshot-grid img {
@@ -113,6 +118,25 @@ body {
   border-radius: 16px;
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
   display: block;
+}
+
+.screenshot-grid figcaption {
+  margin-top: 16px;
+}
+
+.screenshot-grid figcaption p {
+  margin: 0;
+}
+
+.screenshot-grid .caption-title {
+  font-weight: 700 !important; 
+  color: var(--ink);
+}
+
+.screenshot-grid .caption-sub {
+  margin-top: 4px;
+  font-size: 0.9rem;
+  color: var(--ink-soft);
 }
 
 @media (max-width: 640px) {
